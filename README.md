@@ -16,7 +16,7 @@ In the project, a two step approached was followed:
  
  > RFM using K-means clustering
  
- 2) Predicting winnable customer behavior to personalise promotions.
+ 2) Predicting winnable customers using past behavior to personalise promotions.
  
  > Prediction using XGBoost
  
